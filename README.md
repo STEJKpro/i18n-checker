@@ -15,7 +15,7 @@ checker = CheckerTagi18n()
 #tags = ['p', 'h', 'h2', 'h5' , 'span']
 #checker = CheckerTagi18n(tags)
 
-checker.check_project('C:/Users/stejk/Documents/tubus_repo')
+checker.check_project('project_path')
 checker.write_errors_file() #Запись результата проверки всех файлов в файл
 
 ```
