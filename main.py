@@ -5,7 +5,7 @@ if __name__ == '__main__':
 
     checker = CheckerTagi18n()
 
-    checker.check_project('C:/Users/stejk/Documents/tubus_repo')
+    checker.check_project('project_path')
     checker.write_errors_file()
 
 
