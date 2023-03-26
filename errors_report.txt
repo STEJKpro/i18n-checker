@@ -1,0 +1,4 @@
+file_path	error_line	tag_with_error
+C:/Users/stejk/Documents/tubus_repo\test-i18n-master\app\view2\view2.html	1	<p >
+C:/Users/stejk/Documents/tubus_repo\test-i18n-master\app\view2\view2.html	7	<h2>
+C:/Users/stejk/Documents/tubus_repo\test-i18n-master\app\view3\view3.html	6	<h>
